@@ -19,3 +19,9 @@ What are some situations when branches would be helpful in keeping your
 history organized? How would branches help?
 
 Situations involving testing experimental features, different language, etc
+
+How do the diagrams help you visualize the branch structure?
+1) It makes it easy to see all the branches.
+2) Clear where the head of each branch is
+3) The parent of each node -> thus easy to follow branch lineage
+4) Quickly determine common nodes between branches
