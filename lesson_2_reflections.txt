@@ -9,3 +9,13 @@ repository? What value do you think it offers?
 The staging area are files PENDING commit while the working directory
 are untracked and not pending commit. This allows you to be selective 
 about which files you add to commit.
+
+How can you use the staging area to make sure you have one commit per 
+logical change?
+
+Commit only the files that correspond to SINGLE LOGICAL change.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+Situations involving testing experimental features, different language, etc
