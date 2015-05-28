@@ -34,3 +34,10 @@ The current branch now points to this new node. The other branch doesn't
 change. Representation shows the dual parent relationship nature of 
 the new node.
 
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+Manual merges benefit has more stability as the programmer will review
+before commiting. This has potential to be a time consuming operation.
+Automatic merging is much quicker, but has much more potential for 
+failure as the result may often not compile.
+
