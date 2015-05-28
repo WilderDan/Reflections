@@ -25,3 +25,12 @@ How do the diagrams help you visualize the branch structure?
 2) Clear where the head of each branch is
 3) The parent of each node -> thus easy to follow branch lineage
 4) Quickly determine common nodes between branches
+
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+
+A new node is created which has as parentS the heads of both branches. 
+The current branch now points to this new node. The other branch doesn't 
+change. Representation shows the dual parent relationship nature of 
+the new node.
+
