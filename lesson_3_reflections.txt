@@ -44,7 +44,9 @@
     remote stored locally?
 
 [Response]
-    Fill in your answer here
+    Enables you to easily see commits that have been done locally. Also,
+    allows for you to merge your local commits with the remote when 
+    additional commits have been applied to the remote.
     
 ----------------------------------------------------------------------------
 [Reflection]
