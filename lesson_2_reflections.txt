@@ -1,43 +1,59 @@
-What happens when you initialize a repository? Why do you need to do it?
 
-It initializes an empty Git repository. It is needed to begin making
-commits.
+[Reflect] 
+  What happens when you initialize a repository? Why do you need to do it?
 
-How is the staging area different from the working directory and the 
-repository? What value do you think it offers?
+[Response] 
+  It initializes an empty Git repository. It is needed to begin making commits.
 
-The staging area are files PENDING commit while the working directory
-are untracked and not pending commit. This allows you to be selective 
-about which files you add to commit.
+-------------------------------------------------------------------------------------------------------
+[Reflect] 
+  How is the staging area different from the working directory and the repository? What value do you
+  think it offers?
 
-How can you use the staging area to make sure you have one commit per 
-logical change?
+[Response] 
+  The staging area are files PENDING commit while the working directory are untracked and not pending 
+  commit. This allows you to be selective about which files you add to commit.
+  
+-------------------------------------------------------------------------------------------------------
+[Reflect] 
+  How can you use the staging area to make sure you have one commit per logical change?
 
-Commit only the files that correspond to SINGLE LOGICAL change.
+[Response] 
+  Commit only the files that correspond to SINGLE LOGICAL change.
 
-What are some situations when branches would be helpful in keeping your
-history organized? How would branches help?
+-------------------------------------------------------------------------------------------------------
+[Reflect] 
+  What are some situations when branches would be helpful in keeping your history organized? How would 
+  branches help?
+  
+[Response]
+  Situations involving testing experimental features, different language, etc
 
-Situations involving testing experimental features, different language, etc
+-------------------------------------------------------------------------------------------------------
+[Reflect] 
+  How do the diagrams help you visualize the branch structure?
+ 
+[Response]
+  1) It makes it easy to see all the branches.
+  2) Clear where the head of each branch is
+  3) The parent of each node -> thus easy to follow branch lineage
+  4) Quickly determine common nodes between branches
+  
+-------------------------------------------------------------------------------------------------------
+[Reflect]
+  What is the result of merging two branches together? Why do we represent  it in the diagram the way
+  we do?
 
-How do the diagrams help you visualize the branch structure?
-1) It makes it easy to see all the branches.
-2) Clear where the head of each branch is
-3) The parent of each node -> thus easy to follow branch lineage
-4) Quickly determine common nodes between branches
-
-What is the result of merging two branches together? Why do we represent 
-it in the diagram the way we do?
-
-A new node is created which has as parentS the heads of both branches. 
-The current branch now points to this new node. The other branch doesn't 
-change. Representation shows the dual parent relationship nature of 
-the new node.
-
-What are the pros and cons of Git’s automatic merging vs. always doing 
-merges manually?
-Manual merges benefit has more stability as the programmer will review
-before commiting. This has potential to be a time consuming operation.
-Automatic merging is much quicker, but has much more potential for 
-failure as the result may often not compile.
-
+[Response]
+  A new node is created which has as parentS the heads of both branches. The current branch now points
+  to this new node. The other branch doesn't change. Representation shows the dual parent relationship
+  nature of the new node.
+  
+-------------------------------------------------------------------------------------------------------
+[Reflect]
+  What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+  
+[Response]
+  Manual merges benefit has more stability as the programmer will review before commiting. This has
+  potential to be a time consuming operation. Automatic merging is much quicker, but has much more 
+  potential for failure as the result may often not compile.
