@@ -57,3 +57,18 @@
   Manual merges benefit has more stability as the programmer will review before commiting. This has
   potential to be a time consuming operation. Automatic merging is much quicker, but has much more 
   potential for failure as the result may often not compile.
+
+-------------------------------------------------------------------------------------------------------
+[Commands] 
+
+  git add     
+  git commit      
+  git status     
+  git diff    
+  git reset --hard      *** Undo all changes! There is no rollback for this, so be carefull! ***
+  git checkout master                              
+  git log --graph --oneline <branch1> <branch2>    
+  git checkout -b <new_branch_name>     
+  git merge <branch1> <branch2>     
+  git branch -d <branch>     
+  git show <commitId>     
