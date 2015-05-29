@@ -54,7 +54,10 @@
     easier, and what would be harder?
 
 [Response]
-    Fill in your answer here
+    I would collaborate over email by sending my files to the other persons
+    and vice versa. It would be easier slightly in that it wouldn't require
+    knowing how the details of Git. Merging would be much more time
+    consuming.
     
 ----------------------------------------------------------------------------
 [Reflection]
