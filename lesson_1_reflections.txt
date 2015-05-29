@@ -1,15 +1,11 @@
 [Introduction]
 
-----------------------------------------------------------------------------
-  [*] 
     A tool such as 'diff' can easily detect changes between 2 files. This 
     can be used to quickly find typos in later revisions. This saves the 
     programmer time!
     
-  [*]
     There should be ONE commit for ONE logical change.
 
-  [*]
     git can make finding and correcting bugs fast and easy without knowing 
     the code base.
   
