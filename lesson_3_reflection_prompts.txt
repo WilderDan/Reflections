@@ -1,45 +1,47 @@
 [Reflection]
-    When would you want to use a remote repository rather than keeping all your work local?
+    When would you want to use a remote repository rather than keeping all
+    your work local?
 
 [Response]
-    I would prefer to use a remote repository when I am colloborating with other people on a single 
-    project.
+    I would prefer to use a remote repository when I am colloborating with
+    other people on a single project.
     
--------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 [Reflection]
-    Why might you want to always pull changes manually rather than having Git automatically stay 
-    up-to-date with your remote repository?
-
-[Response]
-    Fill in your answer here
-    
--------------------------------------------------------------------------------------------------------
-[Reflection]
-    Describe the differences between forks, clones, and branches.  When would you
-    use one instead of another?
+    Why might you want to always pull changes manually rather than having 
+    Git automatically stay up-to-date with your remote repository?
 
 [Response]
     Fill in your answer here
     
--------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 [Reflection]
-    What is the benefit of having a copy of the last known state of the remote stored locally?
+    Describe the differences between forks, clones, and branches.  When
+    would you use one instead of another?
 
 [Response]
     Fill in your answer here
     
--------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 [Reflection]
-    How would you collaborate without using Git or GitHub?  What would be easier, and what would be 
-    harder?
+    What is the benefit of having a copy of the last known state of the 
+    remote stored locally?
 
 [Response]
     Fill in your answer here
     
--------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 [Reflection]
-    When would you want to make changes in a separate branch rather than directly in master?  What 
-    benefits does each approach have?
+    How would you collaborate without using Git or GitHub?  What would be 
+    easier, and what would be harder?
+
+[Response]
+    Fill in your answer here
+    
+----------------------------------------------------------------------------
+[Reflection]
+    When would you want to make changes in a separate branch rather than 
+    directly in master?  What benefits does each approach have?
 
 [Response]
     Fill in your answer here
