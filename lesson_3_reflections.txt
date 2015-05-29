@@ -12,7 +12,9 @@
     Git automatically stay up-to-date with your remote repository?
 
 [Response]
-    Fill in your answer here
+    Automatic pulling has the potential to overwrite current work in 
+    the local repository. This could happen if I have made some local 
+    changes before I pushed the changes to remote. 
     
 ----------------------------------------------------------------------------
 [Reflection]
