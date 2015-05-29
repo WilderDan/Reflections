@@ -22,7 +22,21 @@
     would you use one instead of another?
 
 [Response]
-    Fill in your answer here
+    Fork copies a GitHub repository to your account. Useful when you want
+    to build off someone's code, but don't have permission to modify
+    to the original.
+    
+    Clone copies a GitHub repository to your local machine.
+    Useful if you want to work on an existing repository locally. 
+    The benefit of this is that you can safely test new features without
+    worrying that the remote version, which everyone else will access, 
+    will be broke. Clone can also copy a local repository to another local 
+    location.
+    
+    Branching allows for different commit histories. This is useful 
+    if you want to test a new feature without affecting the master 
+    branch. This allows for the master branch to remain stable while
+    being able to experiment. Branches can also be merged.
     
 ----------------------------------------------------------------------------
 [Reflection]
