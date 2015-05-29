@@ -64,5 +64,7 @@
     When would you want to make changes in a separate branch rather than 
     directly in master?  What benefits does each approach have?
 
-[Response]
-    Fill in your answer here
+[Response] 
+    I would do so when I want to get feedback on a feature before adding
+    directly to master. This allows for experimentation and stability.
+    The downside is a more complicated workflow. 
